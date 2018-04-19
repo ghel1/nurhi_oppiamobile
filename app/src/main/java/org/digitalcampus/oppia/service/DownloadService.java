@@ -31,7 +31,7 @@ import android.util.Log;
 
 import com.splunk.mint.Mint;
 
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.R;
 import org.digitalcampus.oppia.utils.HTTPClientUtils;
 import org.digitalcampus.oppia.utils.storage.Storage;
 import org.digitalcampus.oppia.utils.ui.OppiaNotificationUtils;

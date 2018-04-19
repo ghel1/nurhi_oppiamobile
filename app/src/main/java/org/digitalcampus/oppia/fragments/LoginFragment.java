@@ -29,7 +29,7 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.LinearLayout.LayoutParams;
 
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.R;
 import org.digitalcampus.oppia.activity.AppActivity;
 import org.digitalcampus.oppia.activity.OppiaMobileActivity;
 import org.digitalcampus.oppia.application.SessionManager;

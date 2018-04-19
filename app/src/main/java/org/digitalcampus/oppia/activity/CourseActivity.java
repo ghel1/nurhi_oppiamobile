@@ -36,7 +36,7 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.widget.Toast;
 
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.R;
 import org.digitalcampus.oppia.adapter.ActivityPagerAdapter;
 import org.digitalcampus.oppia.adapter.SectionListAdapter;
 import org.digitalcampus.oppia.application.DbHelper;

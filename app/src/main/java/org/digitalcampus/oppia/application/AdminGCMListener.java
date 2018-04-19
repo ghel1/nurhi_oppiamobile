@@ -32,8 +32,8 @@ import android.util.Log;
 
 import com.google.android.gms.gcm.GcmListenerService;
 
-import org.nurhi.mobile.learning.BuildConfig;
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.BuildConfig;
+import org.digitalcampus.mobile.learning.R;
 import org.digitalcampus.oppia.activity.PrefsActivity;
 import org.digitalcampus.oppia.activity.StartUpActivity;
 import org.digitalcampus.oppia.utils.ui.OppiaNotificationUtils;

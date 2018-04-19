@@ -6,8 +6,8 @@ import android.net.Uri;
 import android.webkit.JavascriptInterface;
 import android.widget.Toast;
 
-import org.nurhi.mobile.learning.BuildConfig;
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.BuildConfig;
+import org.digitalcampus.mobile.learning.R;
 import org.digitalcampus.oppia.utils.storage.ExternalStorageStrategy;
 import org.digitalcampus.oppia.utils.storage.FileUtils;
 import org.digitalcampus.oppia.utils.storage.Storage;

@@ -24,7 +24,7 @@ package org.digitalcampus.oppia.utils.ui;
 import java.util.ArrayList;
 import java.util.List;
 
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.R;
 
 import android.annotation.TargetApi;
 import android.content.Context;

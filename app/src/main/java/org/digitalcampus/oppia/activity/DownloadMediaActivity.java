@@ -26,7 +26,7 @@ import java.io.OutputStreamWriter;
 import java.io.Writer;
 import java.util.ArrayList;
 
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.R;
 import org.digitalcampus.oppia.adapter.DownloadMediaListAdapter;
 import org.digitalcampus.oppia.listener.DownloadMediaListener;
 import org.digitalcampus.oppia.listener.ListInnerBtnOnClickListener;

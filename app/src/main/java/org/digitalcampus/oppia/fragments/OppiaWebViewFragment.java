@@ -17,7 +17,7 @@
 
 package org.digitalcampus.oppia.fragments;
 
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.R;
 import org.digitalcampus.oppia.activity.PrefsActivity;
 
 import android.content.SharedPreferences;

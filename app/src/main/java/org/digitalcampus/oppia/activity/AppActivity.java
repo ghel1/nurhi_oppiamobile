@@ -33,7 +33,7 @@ import java.util.ArrayList;
 import java.util.Locale;
 import java.util.concurrent.Callable;
 
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.R;
 import org.digitalcampus.oppia.application.MobileLearning;
 import org.digitalcampus.oppia.application.ScheduleReminders;
 import org.digitalcampus.oppia.application.SessionManager;

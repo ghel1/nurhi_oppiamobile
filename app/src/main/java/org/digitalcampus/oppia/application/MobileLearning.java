@@ -18,8 +18,8 @@
 package org.digitalcampus.oppia.application;
 
 
-import org.nurhi.mobile.learning.BuildConfig;
-import org.nurhi.mobile.learning.R;
+import org.digitalcampus.mobile.learning.BuildConfig;
+import org.digitalcampus.mobile.learning.R;
 import org.digitalcampus.oppia.activity.PrefsActivity;
 import org.digitalcampus.oppia.di.AppComponent;
 import org.digitalcampus.oppia.di.AppModule;
