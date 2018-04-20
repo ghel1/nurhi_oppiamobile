@@ -61,7 +61,7 @@ li:before {
       max-height: 0px;
       left: -20px;
       top: -0px;
-      color: #77A240;
+      color: #31849b;
       font-size: 30px;
     }
   
@@ -74,7 +74,7 @@ a {
 	margin:10px 5px;
 	padding: 5px;
 	font-weight: bold;
-	border: 2px solid #77A240;
+	border: 2px solid #31849b;
 	border-radius: 0.5em;
 	-moz-border-radius: 0.5em;
 	-webkit-border-radius: 0.5em;
